@@ -5,12 +5,16 @@ Application similar to jira clone
 
 Database: MongoDb
 
+
 TODO: 
 
-- [ ]  Create user apis 
-- [ ]  Support Social Registration
-- [ ]  Support Social Login
+- [X]  Create user apis [Registration]
+- [ ]  Support Social Registration [ google, github]
+- [ ]  Support Social Login [google, github]
 - [ ]  Update TODO
 - [ ]  Websocket Implementation
 - [ ]  RealTime Update
 - [ ]  support editing at a same time
+
+![DataBase Schemas](database.png)
+
